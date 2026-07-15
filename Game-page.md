@@ -12,4 +12,4 @@ description: New games will be found here.
 [back](./)
 
 
-<script src="{{ '/portfolio-edits-html/index.js' | relative_url }}"></script>
+<script src="{{ 'Portfolio Edits HTML/index.js' | relative_url }}"></script>
