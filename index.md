@@ -1,7 +1,5 @@
 ---
 layout: default
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8416492052954785"
-     crossorigin="anonymous"></script>
 ---
 
 Website is under construction. New games will be found here.
