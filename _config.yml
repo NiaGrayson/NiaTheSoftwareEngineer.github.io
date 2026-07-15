@@ -1,6 +1,5 @@
 title:  I'm Nia, Welcome to My Portfolio!
 description: Another clean project by Nia The Software Engineer.
 show_downloads: false
-google_analytics:<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8416492052954785"
-     crossorigin="anonymous"></script>
+google_analytics:
 theme: jekyll-theme-cayman
