@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Website is under construction. New games will be found here.
+New games will be found here.
 
 [Game](./Game-page.html).
 
