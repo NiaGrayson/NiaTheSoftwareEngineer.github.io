@@ -4,7 +4,7 @@ title: Game Page
 description: New games will be found here.
 ---
 
-<button id="music-button">🎵 Play Music</button>
+<button id="music-button">🎶 Play Music</button>
 
 ## New games coming soon! Hooray! 😄
 
@@ -12,4 +12,4 @@ description: New games will be found here.
 [back](./)
 
 
-<script src="{{ '/js/index.js' | relative_url }}"></script>
+<script src="{{ '/portfolio-edits-html/index.js' | relative_url }}"></script>
