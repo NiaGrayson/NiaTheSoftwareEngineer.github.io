@@ -1,5 +1,5 @@
 const audio = document.createElement('audio');
-audio.src = 'i-love-my-8-bit-game-console.mp3';
+audio.src = 'https://github.com/NiaGrayson/NiaTheSoftwareEngineer.github.io/blob/main/Portfolio%20Edits%20HTML/Sample%20Music.mp3';
 audio.loop = true;
 
 document.body.appendChild(audio);
