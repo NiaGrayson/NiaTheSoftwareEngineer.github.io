@@ -3,7 +3,13 @@ layout: default
 title: Game Page
 description: New games will be found here.
 ---
-<script src="js/music-player.js"></script>
+
+<button id="music-button">🎵 Play Music</button>
+
 ## New games coming soon! Hooray! 😄
 
+
 [back](./)
+
+
+<script src="js/index.js"></script>
