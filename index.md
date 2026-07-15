@@ -1,6 +1,6 @@
----
-layout: default
----
+<head>
+Mystical Roses.png
+</head>
 
 New games will be found here.
 
