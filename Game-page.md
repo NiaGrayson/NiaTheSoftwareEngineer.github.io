@@ -12,4 +12,4 @@ description: New games will be found here.
 [back](./)
 
 
-<script src="js/index.js"></script>
+<script src="{{ '/js/index.js' | relative_url }}"></script>
