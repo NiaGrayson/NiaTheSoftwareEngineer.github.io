@@ -23,3 +23,29 @@ New games will be found here.
   This portfolio serves as a reflection of my growth as a technology professional and my commitment to continuous learning. My passion for expanding my knowledge and contributions to the IT field is was drives me to succeed. I am always looking for new opportunities to grow and contribute to projects that create meaningful impact. Follow my journey, as I approach each opportunity with curiosity, persistence, and a commitment to continuous improvement.
 
 Thank you for visiting my portfolio. I hope it provides insight into the work I am passionate about, and the direction I am headed as I continue building a career in software engineering!😊
+
+
+
+# Can you Geuss What Game I'm Making?
+
+```Javascript
+<!Doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Game Name Here</title>
+        <link rel="stylesheet" href="asset.css">
+           </head>
+
+    <body>
+    <h1>Score: <span id="score">0</span></h1>
+
+    <button id="startButton">Start Game</button>
+
+    <div id="board"></div>    
+    
+    <script src="asset.js"></script>
+</body>
+```
+
