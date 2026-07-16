@@ -22,11 +22,12 @@ New games will be found here.
   
   This portfolio serves as a reflection of my growth as a technology professional and my commitment to continuous learning. My passion for expanding my knowledge and contributions to the IT field is was drives me to succeed. I am always looking for new opportunities to grow and contribute to projects that create meaningful impact. Follow my journey, as I approach each opportunity with curiosity, persistence, and a commitment to continuous improvement.
 
-Thank you for visiting my portfolio. I hope it provides insight into the work I am passionate about, and the direction I am headed as I continue building a career in software engineering!😊
+Thank you for visiting my portfolio. I hope it provides insight into the work I am passionate about, and the direction I am headed as I continue building a career in software engineering!🤗
 
 
 
-# Can you Geuss What Game I'm Making?
+
+# Can you Geuss What Game I'm Making?  😎🎮
 
 ```Javascript
 <!Doctype html>
