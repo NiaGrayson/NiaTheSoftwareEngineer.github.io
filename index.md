@@ -27,7 +27,7 @@ Thank you for visiting my portfolio. I hope it provides insight into the work I 
 
 
 
-# Can you Geuss What Game I'm Making?  😎🎮
+# Can you Guess What Game I'm Making?  😎🎮
 
 ```Javascript
 <!Doctype html>
