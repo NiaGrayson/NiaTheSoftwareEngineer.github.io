@@ -4,8 +4,5 @@
 @import 'jekyll-theme-cayman';
 
 .page-header {
-  background-image: url("/assets/Mystical%20Roses.png") !important;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background: url("/assets/Mystical%20Roses.png") center center / cover no-repeat !important;
 }
