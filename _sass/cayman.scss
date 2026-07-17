@@ -4,7 +4,8 @@
 @import 'jekyll-theme-cayman';
 
 .page-header {
-  background-image: url("https://github.com/NiaGrayson/NiaTheSoftwareEngineer.github.io/blob/main/assets/Mystical%20Roses.png");
+  background-image: url("/assets/Mystical%20Roses.png") !important;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
