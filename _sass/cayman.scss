@@ -1,4 +1,10 @@
-// Placeholder file. If your site uses
-//     @import "{{ site.theme }}";
-// Then using this theme with jekyll-remote-theme will work fine.
-@import "jekyll-theme-cayman";
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+.page-header {
+  background-image: url("/assets/images/your-image-name.png");
+  background-size: cover;
+  background-position: center;
+}
