@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Game Page
-description: New games will be found here.
+title: About 
+description: 
 ---
 
 # About Me
