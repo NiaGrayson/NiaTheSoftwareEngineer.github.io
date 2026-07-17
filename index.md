@@ -1,5 +1,7 @@
 ---
 layout: default
+title: I'm Nia, Welcome to My Portfolio!
+description: Another clean project by Nia The Software Engineer.
 ---
 
 New games will be found here.
