@@ -56,6 +56,7 @@ Thank you for visiting my portfolio. I hope it provides insight into the work I 
 
 # Coming Soon: A New Game! 🎮
 
+```
 <video autoplay muted loop playsinline width="100%">
    <source src="/assets/css/Candy Smash New Game.mp4" type="video/mp4">
   Your browser does not support video playback.
@@ -68,6 +69,7 @@ Thank you for visiting my portfolio. I hope it provides insight into the work I 
 
 
 <a href="./Game-page.html">🎮 Visit the Game Page</a>
+```
 
 <br>
 <br>
