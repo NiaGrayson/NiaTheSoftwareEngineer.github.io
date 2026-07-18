@@ -10,6 +10,16 @@
   background-repeat: no-repeat;
 }
 
+/* Background behind the entire navigation bar */
+.main-nav {
+  background: rgba(0, 0, 0, 0.45);
+  padding: 12px 20px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+/* Existing navigation link styling */
 .main-nav a {
   font-weight: bold;
 }
