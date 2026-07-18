@@ -52,6 +52,7 @@ Thank you for visiting my portfolio. I hope it provides insight into the work I 
 </body>
 ```
 
+
 <div class="game-announcement">
 
 # 🎮 Coming Soon: A New Game!
@@ -62,10 +63,9 @@ Thank you for visiting my portfolio. I hope it provides insight into the work I 
 </video>
 <br>
 <br>
-<br>
   
 <img src="/assets/css/CANDY SMASH Thumbnail.png" alt="Candy Smash game announcement">
-  
+ <br> 
    
 <p>
 I'm currently developing a new game! Can you guess what it is?
@@ -75,4 +75,5 @@ Stay tuned for updates, screenshots, and the official release.
 <a href="./Game-page.html">🎮 Visit the Game Page</a>
 
 </div>
-
+<br>
+<br>
