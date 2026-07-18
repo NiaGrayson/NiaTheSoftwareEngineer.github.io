@@ -60,11 +60,8 @@ Thank you for visiting my portfolio. I hope it provides insight into the work I 
    <source src="/assets/css/Candy Smash New Game.mp4" type="video/mp4">
   Your browser does not support video playback.
 </video>
-<br>
-<br>
   
 <img src="/assets/css/CANDY SMASH Thumbnail.png" alt="Candy Smash game announcement">
- <br> 
    
 <p>
 I'm currently developing a new game! Can you guess what it is?
