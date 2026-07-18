@@ -63,7 +63,6 @@ Thank you for visiting my portfolio. I hope it provides insight into the work I 
 <br>
 <br>
 <br>
-<br.
   
 <img src="/assets/css/CANDY SMASH Thumbnail.png" alt="Candy Smash game announcement">
   
