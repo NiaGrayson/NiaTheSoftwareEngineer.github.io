@@ -52,3 +52,22 @@ Thank you for visiting my portfolio. I hope it provides insight into the work I 
 </body>
 ```
 
+<div class="game-announcement">
+
+# 🎮 Coming Soon: A New Game!
+
+<video controls width="100%">
+  <source src="/assets/css/Candy Smash New Game.mp4" type="video/mp4">
+  Your browser does not support video playback.
+</video>
+<img src="/assets/css/CANDY SMASH Thumbnail.png" alt="Candy Smash game announcement">
+
+<p>
+I'm currently developing a new game! Can you guess what it is?
+Stay tuned for updates, screenshots, and the official release.
+</p>
+
+<a href="./Game-page.html">🎮 Visit the Game Page</a>
+
+</div>
+
