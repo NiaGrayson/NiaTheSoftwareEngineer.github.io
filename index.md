@@ -61,7 +61,7 @@ Thank you for visiting my portfolio. I hope it provides insight into the work I 
   Your browser does not support video playback.
 </video>
   
-<img src="/assets/css/CANDY SMASH Thumbnail.png" alt="Candy Smash game announcement">
+<img src="assets/css/Smaller Candy Smash Thumbnail.png" alt="Candy Smash game announcement">
    
 <p>
 I'm currently developing a new game! Can you guess what it is?
