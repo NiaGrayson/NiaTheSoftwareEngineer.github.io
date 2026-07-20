@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Cand Smash
-description: Welcome to the New Candy Smash Game!
+title: Candy Smash
+description: New Candy Smash Game!
 ---
 
 <button id="music-button">🎶 Play Music</button>
@@ -24,3 +24,7 @@ musicButton.addEventListener("click", function () {
     }
 });
 </script>
+
+##
+
+[back](./)
