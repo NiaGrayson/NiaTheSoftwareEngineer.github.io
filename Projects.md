@@ -6,7 +6,7 @@ description:
 
 # HTML, CSS, Javascript
 
-- Candy Smash
+- <a href="./CandySmash.html"> CandySmash</a>
 
 # Python
 
