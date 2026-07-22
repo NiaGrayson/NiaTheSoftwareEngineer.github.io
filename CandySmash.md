@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Candy Smash
-description: New Candy Smash Game!
+title: CandySmash
+description: New CandySmash Game!
 ---
 
 <button id="music-button">🎶 Play Music</button>
