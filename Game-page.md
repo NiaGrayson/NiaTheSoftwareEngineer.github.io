@@ -27,5 +27,7 @@ musicButton.addEventListener("click", function () {
 
 ## New games coming soon! Hooray! 😄
 
+[Game](./CandySmash.html).
+
 [back](./)
 
