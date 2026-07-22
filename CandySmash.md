@@ -4,10 +4,21 @@ title: CandySmash
 description: New CandySmash Game!
 ---
 
-<button id="music-button">🎶 Play Music</button>
+# CandySmash
+
+<div style="margin-bottom: 20px;">
+    <button id="music-button">🎶 Play Music</button>
+</div>
+
+<iframe
+    src="{{ '/Candy%20Smash%20Game/index.html' | relative_url }}"
+    width="100%"
+    height="700"
+    style="border: none;">
+</iframe>
 
 <script>
-const music = new Audio("{{ 'Music/Smaller Sample Music.mp3' | relative_url }}");
+const music = new Audio("{{ '/Music/Smaller Sample Music.mp3' | relative_url }}");
 
 music.loop = true;
 music.volume = 0.4;
@@ -24,7 +35,5 @@ musicButton.addEventListener("click", function () {
     }
 });
 </script>
-
-##
 
 [back](./)
