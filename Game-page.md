@@ -25,9 +25,11 @@ musicButton.addEventListener("click", function () {
 });
 </script>
 
-## New games coming soon! Hooray! 😄
+## A new game is here! Hooray! 😄
 
-[Play CandySmash](./CandySmash.html).
+<img src="assets/css/Smaller Candy Smash Thumbnail.png" alt="Candy Smash game announcement">
+
+<a href="./CandySmash.html">🎮 Play CandySmash</a>
 
 [back](./)
 
