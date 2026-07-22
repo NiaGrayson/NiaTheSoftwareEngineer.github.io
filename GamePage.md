@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Game Page
-description: New games will be found here.
+description: Welcome to the Game Page!
 ---
 
 <button id="music-button">🎶 Play Music</button>
