@@ -11,7 +11,7 @@ description: To-Do List Demo
 </div>
 
 <iframe
-    src="{{ '/ToDoList' | relative_url }}"
+    src="{{ '/ToDoList/Index.html' | relative_url }}"
     width="100%"
     height="700"
     style="border: none;">
