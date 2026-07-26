@@ -36,4 +36,6 @@ musicButton.addEventListener("click", function () {
 });
 </script>
 
-<a href="javascript:history.back()">← Back</a>
+<a href="#" onclick="if (history.length > 1) { history.back(); } else { window.location.href='index.html'; } return false;">
+    ← Back
+</a>
