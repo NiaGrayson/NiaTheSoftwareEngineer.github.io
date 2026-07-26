@@ -5,13 +5,16 @@ description: Another clean project by Nia The Software Engineer.
 ---
 
 
+
 # New Game Just Dropped! 🎮
 
 
-<video autoplay muted loop playsinline width="100%">
-   <source src="/assets/css/Candy Smash New Game.mp4" type="video/mp4">
-  Your browser does not support video playback.
-</video>
+<a href="././CandySmash.html">
+  <video autoplay muted loop playsinline width="100%">
+    <source src="/assets/css/Candy Smash New Game.mp4" type="video/mp4">
+    Your browser does not support video playback.
+  </video>
+</a>
   
 <img src="assets/css/Smaller Candy Smash Thumbnail.png" alt="Candy Smash game announcement">
    
