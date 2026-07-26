@@ -27,6 +27,7 @@ musicButton.addEventListener("click", function () {
 
 ## A new game is here! Hooray! 😄
 
+<a href="CandySmash.html">  
 <img src="assets/css/Smaller Candy Smash Thumbnail.png" alt="Candy Smash game announcement">
 
 <a href="./CandySmash.html">🎮 Play CandySmash</a>
