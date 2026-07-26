@@ -8,7 +8,7 @@ description:
 
 - <a href="./CandySmash.html"> CandySmash</a>
 - <a href="./ToDoList.html"> To-Do List Demo</a>
-  - C# Puzzle Game
+- C# Puzzle Game
 
 
 
