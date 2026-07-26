@@ -71,3 +71,8 @@ I reserve the right to update, modify, or replace this disclaimer at any time wi
 
 If you have questions regarding this disclaimer, please contact me through the contact information provided elsewhere on this website or through my GitHub profile.
 
+
+<a href="#" onclick="if (history.length > 1) { history.back(); } else { window.location.href='index.html'; } return false;">
+    ← Back
+</a>
+
