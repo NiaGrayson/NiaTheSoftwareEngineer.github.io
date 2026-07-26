@@ -4,9 +4,8 @@ title: Blog
 description: 
 ---
 
-# What I'm Working on Currently
+# Blog
 
-# New Game Just Dropped!
 
 
 [back](./)
