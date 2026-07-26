@@ -9,9 +9,9 @@ description:
 - <a href="./CandySmash.html"> CandySmash</a>
 - <a href="./ToDoList.html"> To-Do List Demo</a>
 
-# Python
+# C#
 
-# SQL
+# Python
 
 
 [back](./)
