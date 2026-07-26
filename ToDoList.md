@@ -36,4 +36,4 @@ musicButton.addEventListener("click", function () {
 });
 </script>
 
-[back](./)
+<a href="javascript:history.back()">← Back</a>
