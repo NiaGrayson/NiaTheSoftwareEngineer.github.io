@@ -73,6 +73,6 @@ If you have questions regarding this disclaimer, please contact me through the c
 
 
 <a href="#" onclick="if (history.length > 1) { history.back(); } else { window.location.href='index.html'; } return false;">
-    ← Back
+    < Back
 </a>
 
