@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Markdown Generator</title>
+
+    <link rel="stylesheet" href="Css/reset.css">
+    <link rel="stylesheet" href="Css/components.css">
+    <link rel="stylesheet" href="Css/theme.css">
+    <link rel="stylesheet" href="Css/GithubMarkdown.css">
+</head>
+
+<body>
+
+<h1>📝 Markdown Generator</h1>
+
+<p class="subtitle">
+    Create beautiful Markdown files for GitHub or other projects with live, instant preview.
+</p>
+
+
+<div class="container">
+
+    <!-- Markdown Input Panel -->
+    <div class="panel">
+
+        <div class="panel-header">
+            <h2>👇🏽 Type your Markdown here 👇🏽</h2>
+        </div>
+
+        <textarea
+            id="markdown-input"
+            placeholder="Type your Markdown here..."
+        ></textarea>
+
+    </div>
+
+
+    <!-- Preview Panel -->
+    <div class="panel">
+
+        <div class="panel-header">
+            <h2>Preview</h2>
+
+            <span class="badge">LIVE</span>
+        </div>
+
+        <div
+            id="markdown-preview"
+            class="markdown-body preview">
+        </div>
+
+    </div>
+
+</div>
+
+
+<!-- Markdown Parser -->
+<script src="Js/markdown.js"></script>
+
+
+<script>
+
+const input = document.getElementById('markdown-input');
+const preview = document.getElementById('markdown-preview');
+
+
+function updatePreview() {
+
+    try {
+
+        if (input.value.trim() === "") {
+            preview.innerHTML = "";
+            return;
+        }
+
+        preview.innerHTML = marked.parse(input.value);
+
+    } catch (err) {
+
+        preview.innerHTML =
+            "<p style='color:red;'>Error parsing Markdown</p>";
+
+        console.error(err);
+
+    }
+
+}
+
+
+input.addEventListener('input', updatePreview);
+
+
+input.placeholder = `# Hello Markdown
+
+Welcome to the **Markdown Generator**!
+
+## Features
+
+- Live Preview
+- GitHub Markdown Styling
+- Responsive Layout
+
+\`\`\`javascript
+console.log("Hello World!");
+\`\`\`
+
+> This is a blockquote.
+
+| Feature | Status |
+|---------|--------|
+| Live Preview | ✅ |
+| Tables | ✅ |
+| Code Blocks | ✅ |
+`;
+
+</script>
+
+
+</body>
+
+</html>

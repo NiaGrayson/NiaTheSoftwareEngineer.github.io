@@ -1,0 +1,40 @@
+body{
+    background:
+        linear-gradient(
+            135deg,
+            #8c52ff,
+            #f9b1e1,
+            #0cc0df
+        );
+
+    color:white;
+}
+
+.subtitle{
+    color:#dddfe2;
+}
+
+textarea {
+    background: rgba(255,255,255,.08);
+    color: white;
+
+    box-shadow: 0 10px 30px rgba(0,0,0,.35);
+
+    -webkit-backdrop-filter: blur(15px); /* Safari */
+    backdrop-filter: blur(15px);         /* Chrome, Edge, Firefox (where supported) */
+}
+
+.preview{
+
+    background:black;
+
+    box-shadow:
+        0 10px 30px rgba(0,0,0,.35);
+}
+
+.badge{
+
+    background:#22c55e;
+
+    color:white;
+}
