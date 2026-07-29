@@ -6,10 +6,6 @@ description: To-Do List Demo
 
 # To-Do List Demo
 
-<div style="margin-bottom: 20px;">
-    <button id="music-button">🎶 Play Music</button>
-</div>
-
 <iframe
     src="{{ '/ToDoList/Index.html' | relative_url }}"
     width="100%"
