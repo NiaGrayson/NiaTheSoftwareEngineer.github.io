@@ -5,11 +5,8 @@ description: MarkDown Generator Demo
 ---
 
 
-# MarkDown Generator
+# MarkDown Generator Demo
 
-<div style="margin-bottom: 20px;">
-    <button id="music-button">🎶 Play Music</button>
-</div>
 
 <iframe
     src="{{ '/Markdown Generator/index.HTML' | relative_url }}"
